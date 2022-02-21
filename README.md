@@ -2,11 +2,6 @@
 Emlak Yönetim Sistemi sayesinde belirlenen bölgelerdeki Satılık/Kiralık Emlakları tek bir platform altında toplayarak, çeşitli filtreler ve emlak sorgulama parametreleri ile potansiyel müşterilere kolay ve kullanışlı bir ara yüz sunarak çaba harcamadan o bölgedeki Emlaklar arasından en avantajlı fiyatları garanti eder. Bu bağlamda Emlak Yönetim Sistemi (EYS) müşteri odaklı bir uygulamadır.
 # Masaüstü Uygulaması(Desktop Application) Çevrimiçi Emlak Yönetimi Sistemi
 
-## Dipnot
-
-- Kısıtlı zamana sahip olan bir Proje olduğu için kod kalitesi çok düşüktür.
-- Uygulamanın server side tarafı, API katmanı, dolaylı olarak input validation kontrolleri mevcut değildir. Uzak bir mysql sunucusuna doğrudan client side bir uygulama ile bağlantı sağlanıldığı bir senaryo olarak baz alınmıştır. Güvenli yazılım geliştirme metodları hakgetiredir.
-
 ## Gereksinimler
   - MySQL Server
   - Eclipse IDE
@@ -35,3 +30,9 @@ Emlak Yönetim Sistemi sayesinde belirlenen bölgelerdeki Satılık/Kiralık Eml
 ![YetkiliKullanicilar](https://user-images.githubusercontent.com/81168263/154952041-1d247055-2efc-4be3-94d6-d243c16a132d.jpg)
 ## Yönetici İşlemleri
 ![Yoneticiİslemleri](https://user-images.githubusercontent.com/81168263/154952048-9a267c24-0ba3-42d5-b5cf-54543ac0593d.jpg)
+
+
+## Dipnot
+
+- Kısıtlı zamana sahip olan bir Proje olduğu için kod kalitesi çok düşüktür.
+- Uygulamanın server side tarafı, API katmanı, dolaylı olarak input validation kontrolleri mevcut değildir. Uzak bir mysql sunucusuna doğrudan client side bir uygulama ile bağlantı sağlanıldığı bir senaryo olarak baz alınmıştır. Güvenli yazılım geliştirme metodları hakgetiredir.
