@@ -1,6 +1,9 @@
-# Emlak Yönetim Sistemi
-Emlak Yönetim Sistemi sayesinde belirlenen bölgelerdeki Satılık/Kiralık Emlakları tek bir platform altında toplayarak, çeşitli filtreler ve emlak sorgulama parametreleri ile potansiyel müşterilere kolay ve kullanışlı bir ara yüz sunarak çaba harcamadan o bölgedeki Emlaklar arasından en avantajlı fiyatları garanti eder. Bu bağlamda Emlak Yönetim Sistemi (EYS) müşteri odaklı bir uygulamadır.
+
 # Masaüstü Uygulaması(Desktop Application) Çevrimiçi Emlak Yönetimi Sistemi
+
+## Emlak Yönetim Sistemi
+Emlak Yönetim Sistemi sayesinde belirlenen bölgelerdeki Satılık/Kiralık Emlakları tek bir platform altında toplayarak, çeşitli filtreler ve emlak sorgulama parametreleri ile potansiyel müşterilere kolay ve kullanışlı bir ara yüz sunarak çaba harcamadan o bölgedeki Emlaklar arasından en avantajlı fiyatları garanti eder. Bu bağlamda Emlak Yönetim Sistemi (EYS) müşteri odaklı bir uygulamadır.
+
 
 ## Gereksinimler
   - MySQL Server
