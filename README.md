@@ -19,12 +19,19 @@ Emlak Yönetim Sistemi sayesinde belirlenen bölgelerdeki Satılık/Kiralık Eml
   - Eclipse IDE üzerinde proje Maven build yapılıp çalıştırılır.
 ## Bağımlılık Yönetimi
   - Maven ile swing, mysql connector gibi bağımlılık paketleri maven depolarından temin edilir. Build işlemi haricinde ek bir işlem yapmanız gerekmemektedir.
-## Demo
+## Kullanıcı Giriş Ekranı
 ![KullaniciGirisEkrani](https://user-images.githubusercontent.com/81168263/154951901-64639ba0-9e09-4410-8956-4e509ec4e3fe.jpg)
+## Kayıt Ekranı
 ![KayitEkrani](https://user-images.githubusercontent.com/81168263/154951935-f1923754-56d1-4a54-985c-b15935ce2d7b.jpg)
+## Kullanıcı Düzenleme
 ![KullaniciDuzenleme](https://user-images.githubusercontent.com/81168263/154951943-33f83e83-5c94-47b0-836a-68368b6b0f0a.jpg)
+## Emlak Düzenleme
 ![EmlakDuzenleme](https://user-images.githubusercontent.com/81168263/154951966-c3ff515c-6779-4d95-a6a2-8963334fea11.jpg)
+## Lisans Düzenleme
 ![LisansDuzenleme](https://user-images.githubusercontent.com/81168263/154951970-6f9ea5e3-b494-4189-ab19-6ac30c5e8ecd.jpg)
+## Tüm Kullanıcılar
 ![TumKullanicilar](https://user-images.githubusercontent.com/81168263/154952038-df8ea00e-b47f-454c-979c-312c64e9fb43.jpg)
+## Yetkili Kullanıcılar
 ![YetkiliKullanicilar](https://user-images.githubusercontent.com/81168263/154952041-1d247055-2efc-4be3-94d6-d243c16a132d.jpg)
+## Yönetici İşlemleri
 ![Yoneticiİslemleri](https://user-images.githubusercontent.com/81168263/154952048-9a267c24-0ba3-42d5-b5cf-54543ac0593d.jpg)
